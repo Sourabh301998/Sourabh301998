@@ -19,16 +19,6 @@
 - 💻 Passionate about Python, Data Analysis, LLMs, Streamlit, Flask, and AI-driven applications
 - 🌐 Mumbai, India
 
----
-
-
-### 🧠 About Me
-
-- 🎓 Bachelor of Science | MBA in Finance  
-- 💼 Former Application Support Engineer at Crest IT (Client: Axis Bank)  
-- 📚 Currently pursuing **Data Science with Generative AI Certification** (May 2025 – Present)  
-- ❤️ Passionate about **Python, Data Analysis, LLMs, Streamlit, Flask**, and AI-driven tools  
-- 📍 Based in Mumbai, India  
 
 ---
 
