@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm currently transitioning into the world of **Data Scien
 ## 🧠 About Me
 
 - 🎓 Bachelor of Science | MBA in Finance
-- 💼 Former Application Support Engineer at Axis Bank & Crest IT
+- 💼 Former Application Support Engineer at Crest IT ( Client - Axis Bank )
 - 📚 Currently pursuing a **Data Science with Generative AI** certification (May 2025 – Present)
 - 💻 Passionate about Python, Data Analysis, LLMs, Streamlit, Flask, and AI-driven applications
 - 🌐 Mumbai, India
@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm currently transitioning into the world of **Data Scien
 
 ## 🔥 My Key Skills
 
-- **Languages & Tools**: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenAI API, Flask, Streamlit, Git, Power BI
+- **Languages & Tools**: Python, SQL, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, OpenAI API, Flask, Streamlit, Git, Power BI, MySQL, Oracle  
 - **Current Learning Focus**: Statistics, Machine Learning, Generative AI (LLMs, Prompt Engineering), Web Deployment
 - **Soft Skills**: Analytical Thinking, Problem Solving, Client Communication, Fast Learner
 
@@ -55,8 +55,8 @@ I regularly share my progress and projects on:
 Feel free to collaborate, give feedback, or just say hi!
 
 - 📧 Email: ranbhisesourabh301998@gmail.com
-- 🌐 Portfolio Website: Coming soon!
-- 🧑‍💻 Open to Internships & Junior Data Science Roles
+- 🌐 Portfolio Website: https://sourabh-portfolio-iys5.onrender.com
+- 🧑‍💻 Open to Internships & Junior Data Science / AI Engineer / Data Analyst Roles
 
 ---
 
