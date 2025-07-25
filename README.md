@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sourabh301998/Sourabh301998/main/assets/banner.png" alt="Sourabh Ranbhise | Aspiring Data Scientist | AI Enthusiast" style="max-width: 100%; border-radius: 12px;" />
+</p>
+
+
 # 👋 Hi, I'm Sourabh Ranbhise
 
 🎯 **Aspiring Data Scientist | AI Enthusiast | Python & SQL Developer**
