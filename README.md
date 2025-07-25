@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm currently transitioning into the world of **Data Scien
 
 ## 🧠 About Me
 
-- 🎓 B.Sc. in Computer Science | MBA in Finance
+- 🎓 Bachelor of Science | MBA in Finance
 - 💼 Former Application Support Engineer at Axis Bank & Crest IT
 - 📚 Currently pursuing a **Data Science with Generative AI** certification (May 2025 – Present)
 - 💻 Passionate about Python, Data Analysis, LLMs, Streamlit, Flask, and AI-driven applications
