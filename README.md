@@ -2,9 +2,9 @@
   <img src="https://raw.githubusercontent.com/Sourabh301998/Sourabh301998/main/assets/banner.png" alt="Sourabh Ranbhise | Aspiring Data Scientist | AI Enthusiast" style="max-width: 100%; border-radius: 12px;" />
 </p>
 
-<h1 align="center">👋 Hi, I'm Sourabh Ranbhise </h1>
+<h1 align="left">👋 Hi, I'm Sourabh Ranbhise </h1>
 
-<p align="center">
+<p align="left">
   <b>🎯 Aspiring Data Scientist | AI Enthusiast | Python Developer</b><br>
   Currently transitioning into Data Science & Generative AI from an Application Support background.
 </p>
