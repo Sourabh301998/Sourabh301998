@@ -68,6 +68,6 @@ Feel free to collaborate, give feedback, or just say hi!
 ## 📊 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourabh301998&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourabh301998&theme=gradient&area=true&hide_border=true" alt="GitHub Activity Graph">
 </p>
 
