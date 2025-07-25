@@ -64,7 +64,7 @@ I regularly share my progress and projects on:
 
 Feel free to collaborate, give feedback, or just say hi!
 
-- 📧 Email: ranbhisesourabh@gmail.com  
+- 📧 Email: sourabhranbhise@gmail.com  
 - 🌐 Portfolio Website: [sourabh-portfolio-iys5.onrender.com](https://sourabh-portfolio-iys5.onrender.com)  
 - 🧑‍💻 Open to Internships & Junior Data Science / AI Engineer / Data Analyst Roles  
 
