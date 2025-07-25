@@ -61,3 +61,13 @@ Feel free to collaborate, give feedback, or just say hi!
 ---
 
 > ⚡ *"Driven by curiosity, powered by data, inspired by AI."*
+
+
+---
+
+## 📊 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sourabh301998&theme=radical&area=true&hide_border=true" alt="GitHub Activity Graph">
+</p>
+
